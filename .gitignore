@@ -1,0 +1,5 @@
+backend/myvenv
+backend/.env
+backend/firebase.json
+backend/service-account.json
+onlinewebsite/node_modules

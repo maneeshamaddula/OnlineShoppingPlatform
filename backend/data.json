@@ -1,0 +1,99 @@
+[
+  {
+    "model": "app.product",
+    "pk": 1,
+    "fields": {
+      "productURL": "https://m.media-amazon.com/images/I/815cYb8BjZL._AC_SY879_.jpg",
+      "productName": "PRETTYGARDEN Women's Summer Casual Boho Dress Floral Print Ruffle Puff Sleeve High Waist Midi Beach Dresses",
+      "productDescription": "SIZE TIPS: S=US 4-6, M=US 8-10，L=US 12-14，XL=US 16-18 Summer Floral Print Dress Is A Woman's Romantic Dream, In Such A Nice Weather, You Should Wear It, The Printing Is Retro And Magnificent, And The Color Is Gorgeous And Elegant, Looks Very Lovely And Beautiful, Soft, Comfortable And Airy For Hot Summer And Humid Days, Just Trust Me, When You Wear This Dress You Will Attracting More Attention Material: Floral Print Midi Dress Is Made Of Very Soft Polyester/ Spandex Blend Fabric, The Fabric Is A Little Thicker Than Other Summer Wear. The Material Is Not Silk But Is Quality Fabric. Super Light Weight And Breathable, Stretches But Maintains Shape, Not See Through, Perfect For Summer And Other Seasons Features: Women’s Summer Dress, Floral Print, Bohemian Style, Midi Length, Vintage, Cute Puff Short Sleeve, Flowy Swing Hem, Crew Neck, Loose Fit, Vintage And Elegant Look, Ruffle Hemline, High Waist Perfectly Shows Your Good Body Figure, Polka Dot Printed, Flare A-Line Mini Dresses, Your Best Choice For Hot Summer Highlight: Bohemian Floral Print Dress Is Always Stylish And Classic, The High-Waisted A-Line Version Can Better Show Your Perfect Figure, The Round Neck Design Shows Your Slim Neckline, Retro Puff Sleeves French Style, Different Dresses Make You Feel Different Ways, This One Made You Feel Really Cute, Sweet, PlayfulOccasion: This Dress Can Satisfy You Dating With Your Boyfriend, Take Perfect Photos While On Vacation. When You Walk Along The Beach With Sunglasses And A Fashionable Hat, You Are The Most Attractive Beauty On This Place. This Dress Is Also Suitable For Daily Work Commuting",
+      "productPrice": "44.99",
+      "productCategory": "dress",
+      "productTotalQuantity": 20
+    }
+  },
+
+  {
+    "model": "app.product",
+    "pk": 2,
+    "fields": {
+      "productURL": "https://m.media-amazon.com/images/I/71pvJ03JYhL._AC_SX679_.jpg",
+      "productName": "BTFBM Women Summer Dresses Casual Sleeveless Maxi Dresses Cute Floral Long Dress Wedding Guest Dress",
+      "productDescription": "Formal Wedding Guest Dresses For Women / Elegant Floral Maxi Dress / Boho Long Dresses / Casual Sleeveless Summer Dresses / V Neck Wrap Dresses For Women / Beach Long Dresses / Holiday Dress / Baby Shower Dresses / Party Dress / Maternity Dresses For Women / Bridal Shower Dresses / Spring Dress / Easter Dresses / Elastic High Waist Dress / Size: S=US 4-6，M=US 8-10，L=US 12-14，XL=US 16-18Lightweight And Comfy Fabric - To Ensure Cool And Breathable Wearing Experience In Summer, The Summer Floral Maxi Dress Is Made Of Soft And Lightweight Polyester Fabric. Thanks To The Relaxed Fit Cut And Elastic High Wasit Design, The Summer Maxi Dress Is Fit For Most Figures",
+      "productPrice": "33.99",
+      "productCategory": "dress",
+      "productTotalQuantity": 20
+    }
+  },
+  {
+    "model": "app.product",
+    "pk": 3,
+    "fields": {
+      "productURL": "https://m.media-amazon.com/images/I/712UlHcP0FL._AC_SX679_.jpg",
+      "productName": "OUGES Women's Summer Short Sleeve V-Neck Floral Short Party Dress with Pockets",
+      "productDescription": "Short sleeve, v-neck, A-line, floral patterned with both side pockets design, breathable, skin-touch, makes you feeling relaxed and comfortable.This v-neck pattern dress cut simply and knee length, with simple wrap waist design, and useful for nearly any occasion.",
+      "productPrice": "22.99",
+      "productCategory": "dress",
+      "productTotalQuantity": 20
+    }
+  },
+  {
+    "model": "app.product",
+    "pk": 4,
+    "fields": {
+      "productURL": "https://m.media-amazon.com/images/I/61I0XQzsV9L._AC_SY695_.jpg",
+      "productName": "Woven Tote Bag for Women, Large Summer Beach Hobo Handbags Handmade Top-handle Shoulder Bag with Purse",
+      "productDescription": "The retro woven style of this women's woven bag handbag is achieved through interlacing two or more strands of high-quality vegan leather in a set pattern using the retro weaving technique. This results in a woven purse that is both eco-friendly and animal-friendly, with exquisite patterns and materials that will take you back to a time full of artistic inspiration. The soft texture of the pu leather makes it comfortable to touch, and the material can be easily cleaned",
+      "productPrice": "45.99",
+      "productCategory": "bag",
+      "productTotalQuantity": 20
+    }
+  },
+  {
+    "model": "app.product",
+    "pk": 5,
+    "fields": {
+      "productURL": "https://m.media-amazon.com/images/I/81G7dSvD2NL._AC_SY695_.jpg",
+      "productName": "ANINE BING Women's Large Rio Tote",
+      "productDescription": "Fabric: Woven raffia. Monogram patch at side, Structured base, Leather trim. Length: 16.5in / 42cm, Height: 13.5in / 34cm, Handle drop: 21.5in / 54.75cm, Depth: 7.75in / 20cm Open top",
+      "productPrice": "450.00",
+      "productCategory": "bag",
+      "productTotalQuantity": 20
+    }
+  },
+  {
+    "model": "app.product",
+    "pk": 6,
+    "fields": {
+      "productURL": "https://m.media-amazon.com/images/I/51C33avezHL._AC_SY695_.jpg",
+      "productName": "Pasuot Western Cowboy Boots for Women - Knee High Wide Calf Cowgirl Boots with Classic Embroidered, Slip On Pointed Toe Chunky Heel Fashion Retro Classic Pull On Tall Boot for Girls Ladies Fall Winter",
+      "productDescription": "Classic Design: The cowboy boots for women are designed with classic embroidery, rubber sole and mesh fabric lining. Easy to Put On and Take off: The wide calf design can be put on and taken off directly, very easy.",
+      "productPrice": "59.99",
+      "productCategory": "shoes",
+      "productTotalQuantity": 20
+    }
+  },
+  {
+    "model": "app.product",
+    "pk": 7,
+    "fields": {
+      "productURL": "https://m.media-amazon.com/images/I/71aD1aKk4lL._AC_SY695_.jpg",
+      "productName": "MUSSHOE Flat Shoes Women Comfortable Slip on Women's Flats",
+      "productDescription": "2X memory foam ergonomic foot-bed,provide stability and soft,you'll feel like walking on clouds,comfortable and supportive for your feet throughout all the day.Special ankle protect spongue cushion,comfy and warm like lover’s hug.",
+      "productPrice": "33.29",
+      "productCategory": "shoes",
+      "productTotalQuantity": 20
+    }
+  },
+  {
+    "model": "app.product",
+    "pk": 8,
+    "fields": {
+      "productURL": "https://m.media-amazon.com/images/I/61jHjk3g7OL._AC_SY695_.jpg",
+      "productName": "Alex and Ani AA683722RG,Statement Motivation Expandable Bangle Bracelet, Hamsa,Rafaelian Gold,Gold, Bracelets",
+      "productDescription": "CLEAN METALS: We care about what is in our jewelry as much as we care about what isn’t. We use recycled materials when crafting our jewelry. Our metals are blended with safe, eco-friendly materials.",
+      "productPrice": "32.69",
+      "productCategory": "accessories",
+      "productTotalQuantity": 1
+    }
+  }
+]
